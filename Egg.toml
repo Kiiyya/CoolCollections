@@ -1,4 +1,4 @@
-[egg]
+[package]
 name = "CoolCollections"
 version = "0.1.0"
 
